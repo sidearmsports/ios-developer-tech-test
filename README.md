@@ -1,28 +1,26 @@
-# favorite_programming_language_poll_tech_test
-iOS Tech Test
+# IOS Developer Tech Test
 
-Thank you for your interest in the iOS Developer position at SIDEARM Sports!
+## favorite_programming_language_poll_tech_test
 
-## We would love seeing your iOS/Swift knowledge in action.:
-Could you create a small app for us using the following requirements? 
+Thank you for your interest in the iOS Developer position at SIDEARM Sports! 
 
-This repo contains a blank XCode project for you to start with.
+## We would love to see your iOS/Swift knowledge in action.
 
-The app should be a single screen that contains a 3 question poll. 
+This repo contains a blank XCode project for a starting point. Design is up to you! Please create a simple IOS application that achieves the requirements below:
 
-It should have the question "What is your favorite programming language?" 
+- The app should be a single screen that contains a 3 question poll. 
+- It should have the question "What is your favorite programming language?" 
+- It should have the following choices:
+    - Swift
+    - Java
+    - Kotlin
 
-It should have the following choices:
+There should be a button to submit your answer. Below that, there should be another button that pops up a modal window that displays number of votes for each choice.
 
-Swift
-Java
-Kotlin
+Please create your own repostiory and send us the link to review, we look forward to seeing what you come up with!
 
-There should be a button to submit your answer.  
+**Turnaround Time**: It is understood that you want to put your best foot forward, but we also understand that you have other responsibilities. Our intention with this tech test is that you should be able to deliver an application you are happy with by spending no more than a couple of hours per night over a couple of nights.
 
-Below that, there should be another button that pops up a modal window that displays number of votes for each choice.
-
-If you could then commit and push your code back to the repo for us to review, we'd appreciate it! 
 ## What Comes Next: 
 
 If we like what we see, we will bring you back in to go over your code.
